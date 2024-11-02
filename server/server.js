@@ -32,6 +32,7 @@ app.get('/api/data', async (req, res) => {
 });
 app.post('/api/register', async (req, res) => {
     const { email, password } = req.body;
+    const name = 'name';
     console.log("email", email)
     console.log("password", password)
     try {
@@ -39,8 +40,8 @@ app.post('/api/register', async (req, res) => {
 
         // Insert the new user into the database
         const newUser = await pool.query(
-            'INSERT INTO users  ( email, password) VALUES ($1, $2) RETURNING *',
-            [email, password]
+            'INSERT INTO users  (name, email, password) VALUES ($1, $2 ,$3) RETURNING *',
+            [email, password , name]
         );
         console.log("newUser", newUser)
         // Respond with the new user data (omit password)

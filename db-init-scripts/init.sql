@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS public.score
 CREATE TABLE IF NOT EXISTS public.Users
 (
     id serial PRIMARY KEY, 
-    name text NOT NULL,    
+    name text NULL,    
     email text UNIQUE NOT NULL, 
     password text NOT NULL  
 );
