@@ -40,7 +40,7 @@ app.post('/api/register', async (req, res) => {
 
         // Insert the new user into the database
         const newUser = await pool.query(
-            'INSERT INTO users  (name, email, password) VALUES ($1, $2 ,$3) RETURNING *',
+            'INSERT INTO users  ( email, password,name) VALUES ($1, $2 ,$3) RETURNING *',
             [email, password , name]
         );
         console.log("newUser", newUser)
