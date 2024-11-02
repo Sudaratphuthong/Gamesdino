@@ -34,6 +34,7 @@ const config = {
   
   export default config;
 ## Step for run docker-compose
+*cd .. (3time)
 > * sudo docker-compose up
 
 
