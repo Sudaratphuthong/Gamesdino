@@ -7,7 +7,7 @@ Using port .
 
 ## Step for pull code form gitHub
 * git clone https://github.com/Sudaratphuthong/Gamesdino.git
-* cd  Ubuntu
+* cd  Gamesdino
 
 ## Step for install docker-compose
 * sudo apt update
