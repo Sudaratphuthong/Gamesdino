@@ -43,6 +43,7 @@ How to access Gamedino
 1. Set a user
 2. Set a password
 3. Click Go to enter Gamedino 
+
 ###The red framed boxes are information about the names and characteristics of dinosaurs. If you click Refresh, it will change to the names of dinosaurs continuously.
 ###Api https://dinosaur-facts-api.shultzlab.com/dinosaurs/random
 
@@ -51,6 +52,7 @@ How to access Gamedino
 How to play Dino
 1. Press the spacebar or enter key
 2. Press the button in step 1 to skip the hippo. If you don't skip the hippo, the exploding hippo will appear.
+
 ###The score will be ranked by the 10 players with the highest scores and will show the date and time.   
 
 
