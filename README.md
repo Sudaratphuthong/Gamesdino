@@ -37,6 +37,11 @@ const config = {
 *cd .. (3time)
 > * sudo docker-compose up
 
+<img width="1466" alt="game1" src="https://github.com/user-attachments/assets/379f16c8-66a6-4e91-93e4-5950e555387a">
+
+<img width="1465" alt="game2" src="https://github.com/user-attachments/assets/b50f01e9-c406-4bbf-839a-4a127e61dc5e">
+
+
 
 
 Thank you <br>
