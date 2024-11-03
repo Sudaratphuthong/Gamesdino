@@ -39,6 +39,8 @@ const config = {
 
 
 
-Thank you and have a nice day. <br>
+Thank you <br>
 BR <br>
-Sudarat Phuthong 66130835
+Sudarat Phuthong 66130835 
+Master of Engineering Program in Computer Engineering
+College of Engineering and Technology
