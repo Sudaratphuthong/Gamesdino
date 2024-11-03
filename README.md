@@ -39,8 +39,19 @@ const config = {
 
 <img width="1466" alt="game1" src="https://github.com/user-attachments/assets/379f16c8-66a6-4e91-93e4-5950e555387a">
 
+How to access Gamedino
+1. Set a user
+2. Set a password
+3. Click Go to enter Gamedino 
+###The red framed boxes are information about the names and characteristics of dinosaurs. If you click Refresh, it will change to the names of dinosaurs continuously.
+###Api https://dinosaur-facts-api.shultzlab.com/dinosaurs/random
+
 <img width="1465" alt="game2" src="https://github.com/user-attachments/assets/b50f01e9-c406-4bbf-839a-4a127e61dc5e">
 
+How to play Dino
+1. Press the spacebar or enter key
+2. Press the button in step 1 to skip the hippo. If you don't skip the hippo, the exploding hippo will appear.
+###The score will be ranked by the 10 players with the highest scores and will show the date and time.   
 
 
 
