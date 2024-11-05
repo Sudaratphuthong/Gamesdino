@@ -1,3 +1,6 @@
+![DINO GAME](https://github.com/user-attachments/assets/ebc2bb3f-6755-4e37-94fa-18d8f2495363)
+
+
 # How to start with ct648_finalproject
 Using port .
 - 5432 > SQLPostgase
@@ -63,6 +66,7 @@ BR <br>
 ![766DD77B-D524-4435-A071-B33DDB07EFCA_1_105_c](https://github.com/user-attachments/assets/9429a8d7-55f2-4406-aaa1-9723c71b6750)
 
 Sudarat Phuthong 66130835 
+
 Master of Engineering Program in Computer Engineering
 College of Engineering and Technology
 
