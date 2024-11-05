@@ -59,8 +59,13 @@ How to play Dino
 
 Thank you <br>
 BR <br>
+![766DD77B-D524-4435-A071-B33DDB07EFCA_1_105_c](https://github.com/user-attachments/assets/9429a8d7-55f2-4406-aaa1-9723c71b6750)
+
 Sudarat Phuthong 66130835 
 Master of Engineering Program in Computer Engineering
 College of Engineering and Technology
 ![logo](https://github.com/user-attachments/assets/c2dfb165-8afe-4aae-9ef8-55140da5c3eb)
+
+Assist.Prof.Dr.Chaiyaporn Khemapatpapan,Ph.D
+![ck1](https://github.com/user-attachments/assets/8506afcc-082a-4567-bdb0-eebb36996b30)
 
