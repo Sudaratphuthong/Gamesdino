@@ -1,5 +1,9 @@
 ![DINO GAME](https://github.com/user-attachments/assets/ebc2bb3f-6755-4e37-94fa-18d8f2495363)
 
+![dg](https://github.com/user-attachments/assets/9d14fe20-bbe0-4bfa-b724-6a2db1075b14)
+
+![dino](https://github.com/user-attachments/assets/d6c49ea1-ebc1-4a93-9150-e94b606abd2d)
+
 
 # How to start with ct648_finalproject
 Using port .
