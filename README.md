@@ -78,5 +78,5 @@ College of Engineering and Technology
 
 Assist.Prof.Dr.Chaiyaporn Khemapatpapan,Ph.D
 
-![ck1](https://github.com/user-attachments/assets/8506afcc-082a-4567-bdb0-eebb36996b30)
+https://cite.dpu.ac.th/ct/master-ct/research_chaiyaporn.html
 
