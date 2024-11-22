@@ -28,12 +28,12 @@ const LoginRegister = () => {
             }
 
             const data = await response.json();
-           
+
             // Handle successful login (e.g., store token, redirect)
             console.log('Login successful:', data);
             if (data.message === "User registered successfully") {
                 localStorage.setItem('user', JSON.stringify({ id: data.user.id, name: data.user.name, email: data.user.email }));
-                window.location.href = "/dinogame"
+                window.location.href = "/"
             }
 
         } catch (err) {
@@ -62,8 +62,8 @@ const LoginRegister = () => {
         fetchScores();
     }, []);
     console.log(data)
-    console.log('All environment variables:',config.apiUrl );
-    
+    console.log('All environment variables:', config.apiUrl);
+
     return (
 
         <div className="materialContainer">
@@ -90,7 +90,7 @@ const LoginRegister = () => {
                 </div>
 
                 {/* {!isLogin && ( */}
-                    {/* <div className="input">
+                {/* <div className="input">
                         <label htmlFor="reregpass">Repeat Password</label>
                         <input type="password" name="reregpass" id="reregpass" />
                         <span className="spin"></span>
@@ -99,12 +99,12 @@ const LoginRegister = () => {
                 <div className={`button login`}>
                     <button onClick={handleLogin}>
                         <span>{"GO"}</span>
-                         <i className="fa fa-check"></i>
+                        <i className="fa fa-check"></i>
                     </button>
                 </div>
 
                 {/* {isLogin && ( */}
-                    {/* <a href="/" className="pass-forgot">Forgot your password?</a> */}
+                {/* <a href="/" className="pass-forgot">Forgot your password?</a> */}
                 {/* )} */}
             </div>
 
@@ -115,11 +115,15 @@ const LoginRegister = () => {
             </div> */}
 
             <div className="cards">
-            <div className="card red">
-                <p className="tip">{data.Name}</p>
-                <p className="second-text">{data.Description}</p>
+                <div className="card red">
+                    <p className="tip">{data.Name}</p>
+                    <p className="second-text">{data.Description}</p>
+                </div>
+                <div className="card blue">
+                <a href="/about"  style={{color:'#ffffff'}} >About</a>   
+                </div>
             </div>
-        </div>
+
         </div>
 
     );
