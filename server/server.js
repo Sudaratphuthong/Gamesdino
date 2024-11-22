@@ -13,17 +13,17 @@ app.use(express.json()); // for parsing application/json
 
 // PostgreSQL connection
 const pool = new Pool({
-  user: 'your_postgres_user',  // Update with your PostgreSQL user
-  host: 'db',                   // Database service name in Docker Compose
-  database: 'your_database_name', // Update with your database name
-  password: 'your_password',    // Update with your password
-  port: 5432,                   // Default PostgreSQL port
+  user: 'postgres',  
+  host: 'db',                   
+  database: 'ct648', 
+  password: '12345678',    
+  port: 5432,                  
 });
 
 // Sample route to fetch data
 app.get('/api/data', async (req, res) => {
     try {
-        const result = await pool.query(`SELECT * FROM users;`);
+        const result = await pool.query(`SELECT * FROM sp_users;`);
         res.json(result.rows);
     } catch (error) {
         console.error('Error fetching data', error);
@@ -40,7 +40,7 @@ app.post('/api/register', async (req, res) => {
 
         // Insert the new user into the database
         const newUser = await pool.query(
-            'INSERT INTO users  ( email, password,name) VALUES ($1, $2 ,$3) RETURNING *',
+            'INSERT INTO sp_users  ( email, password,name) VALUES ($1, $2 ,$3) RETURNING *',
             [email, password , name]
         );
         console.log("newUser", newUser)
@@ -62,7 +62,7 @@ app.post('/api/pointregister', async (req, res) => {
 
         // Insert the new user into the database
         const newUser = await pool.query(
-            'INSERT INTO score  ( username, point,time ) VALUES ($1, $2 , now()) RETURNING *',
+            'INSERT INTO sp_score  ( username, point,time ) VALUES ($1, $2 , now()) RETURNING *',
             [username, point]
         );
         console.log("newUser", newUser)
@@ -79,7 +79,7 @@ app.post('/api/pointregister', async (req, res) => {
 app.get('/api/scores', async (req, res) => {
     try {
         // Query to select all scores
-        const result = await pool.query('SELECT * FROM score  ORDER BY point DESC limit 10'); // Adjust as needed
+        const result = await pool.query('SELECT * FROM sp_score  ORDER BY point DESC limit 10'); // Adjust as needed
         console.log("Scores retrieved:", result.rows); // Log retrieved scores
 
         // Send the scores back as a JSON response
