@@ -1,11 +1,11 @@
-CREATE TABLE IF NOT EXISTS public.score
+CREATE TABLE IF NOT EXISTS public.sp_score
 (
     username text,
     point integer,
     "time" timestamp with time zone 
 );
 
-CREATE TABLE IF NOT EXISTS public.Users
+CREATE TABLE IF NOT EXISTS public.sp_users
 (
     id serial PRIMARY KEY, 
     name text NULL,    
