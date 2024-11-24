@@ -33,7 +33,7 @@ const LoginRegister = () => {
             console.log('Login successful:', data);
             if (data.message === "User registered successfully") {
                 localStorage.setItem('user', JSON.stringify({ id: data.user.id, name: data.user.name, email: data.user.email }));
-                window.location.href = "/"
+                window.location.href = "/dino"
             }
 
         } catch (err) {
