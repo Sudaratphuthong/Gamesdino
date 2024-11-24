@@ -1,6 +1,7 @@
 ![DINO GAME](https://github.com/user-attachments/assets/ebc2bb3f-6755-4e37-94fa-18d8f2495363)
 
-![dg](https://github.com/user-attachments/assets/9d14fe20-bbe0-4bfa-b724-6a2db1075b14)
+![hippo](https://github.com/user-attachments/assets/2bf8c263-bd3a-42c4-831e-e5ba60f9819c)
+
 
 ![dino](https://github.com/user-attachments/assets/d6c49ea1-ebc1-4a93-9150-e94b606abd2d)
 
@@ -48,14 +49,11 @@ const config = {
 
 
 How to access Gamedino
-1. Set a user
-2. Set a password
-3. Click Go to enter Gamedino 
+1. Click Go to enter Gamedino 
+###Api https://api.thecatapi.com/v1/images/search
+![Uploading Screenshot 2567-11-24 at 7.48.22 PM.png…]()
 
-###The red framed boxes are information about the names and characteristics of dinosaurs. It will change to the names of dinosaurs continuously.
-###Api https://dinosaur-facts-api.shultzlab.com/dinosaurs/random
 
-<img width="1465" alt="game2" src="https://github.com/user-attachments/assets/b50f01e9-c406-4bbf-839a-4a127e61dc5e">
 
 How to play Dino
 1. Press the spacebar or enter key
