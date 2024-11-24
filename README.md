@@ -44,7 +44,8 @@ const config = {
 *cd .. (3time)
 > * sudo docker-compose up
 
-<img width="1466" alt="game1" src="https://github.com/user-attachments/assets/379f16c8-66a6-4e91-93e4-5950e555387a">
+<img width="1470" alt="Screenshot 2567-11-24 at 12 53 18 PM" src="https://github.com/user-attachments/assets/5deaf188-6174-49b9-89a2-85c161956c2d">
+
 
 How to access Gamedino
 1. Set a user
