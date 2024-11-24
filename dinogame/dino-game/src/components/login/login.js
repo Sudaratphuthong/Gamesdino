@@ -33,7 +33,7 @@ const LoginRegister = () => {
             console.log('Login successful:', data);
             if (data.message === "User registered successfully") {
                 localStorage.setItem('user', JSON.stringify({ id: data.user.id, name: data.user.name, email: data.user.email }));
-                window.location.href = "/dino"
+                window.location.href = "/"
             }
 
         } catch (err) {
@@ -59,8 +59,15 @@ const LoginRegister = () => {
 
     // Call fetchScores when needed, e.g., in a useEffect or on button click
     useEffect(() => {
-        fetchScores();
+        // เรียก fetchScores ทุก ๆ 5 วินาที
+        const interval = setInterval(() => {
+            fetchScores();
+        }, 5000);
+
+        // ล้าง interval เมื่อ component ถูก unmount
+        return () => clearInterval(interval);
     }, []);
+
     console.log(data)
     console.log('All environment variables:', config.apiUrl);
 
