@@ -52,7 +52,7 @@ How to access Gamedino
 2. Set a password
 3. Click Go to enter Gamedino 
 
-###The red framed boxes are information about the names and characteristics of dinosaurs. If you click Refresh, it will change to the names of dinosaurs continuously.
+###The red framed boxes are information about the names and characteristics of dinosaurs. It will change to the names of dinosaurs continuously.
 ###Api https://dinosaur-facts-api.shultzlab.com/dinosaurs/random
 
 <img width="1465" alt="game2" src="https://github.com/user-attachments/assets/b50f01e9-c406-4bbf-839a-4a127e61dc5e">
