@@ -2,9 +2,10 @@
 
 ![dino](https://github.com/user-attachments/assets/9e5afb27-e027-4d85-ad0c-93735964d787)
 
+![pp](https://github.com/user-attachments/assets/539229c8-a827-4a63-87ef-1e04b4dce98a)
 
 
-![dino](https://github.com/user-attachments/assets/d6c49ea1-ebc1-4a93-9150-e94b606abd2d)
+
 
 
 # How to start with ct648_finalproject
