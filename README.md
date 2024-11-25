@@ -46,13 +46,15 @@ const config = {
 *cd .. (3time)
 > * sudo docker-compose up
 
-<img width="1470" alt="Screenshot 2567-11-24 at 12 53 18 PM" src="https://github.com/user-attachments/assets/5deaf188-6174-49b9-89a2-85c161956c2d">
+<img width="1470" alt="Screenshot 2567-11-25 at 11 15 21 PM" src="https://github.com/user-attachments/assets/79741b35-1d71-40e1-ae37-ed415e7c4150">
+
 
 
 How to access Gamedino
 1. Click Go to enter Gamedino 
 ###Api https://api.thecatapi.com/v1/images/search
-![Uploading Screenshot 2567-11-24 at 7.48.22 PM.png…]()
+
+<img width="1465" alt="game2" src="https://github.com/user-attachments/assets/d337ec7f-cf66-4464-95eb-ad4d8abbc617">
 
 
 
