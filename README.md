@@ -52,10 +52,10 @@ const config = {
 
 How to access Gamedino
 1. Click Go to enter Gamedino 
-###Api https://api.thecatapi.com/v1/images/search
+###Api https://dinoapi.brunosouzadev.com/api/dinosaurs
+#Give knowledge about dinosaurs#
 
 <img width="1465" alt="game2" src="https://github.com/user-attachments/assets/d337ec7f-cf66-4464-95eb-ad4d8abbc617">
-
 
 
 How to play Dino
