@@ -1,6 +1,7 @@
 ![DINO GAME](https://github.com/user-attachments/assets/ebc2bb3f-6755-4e37-94fa-18d8f2495363)
 
-![hippo](https://github.com/user-attachments/assets/2bf8c263-bd3a-42c4-831e-e5ba60f9819c)
+![dino](https://github.com/user-attachments/assets/9e5afb27-e027-4d85-ad0c-93735964d787)
+
 
 
 ![dino](https://github.com/user-attachments/assets/d6c49ea1-ebc1-4a93-9150-e94b606abd2d)
