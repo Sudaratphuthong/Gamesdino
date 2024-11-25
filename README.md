@@ -56,7 +56,8 @@ How to access Gamedino
 ###Api https://dinoapi.brunosouzadev.com/api/dinosaurs
 #Give knowledge about dinosaurs#
 
-<img width="1465" alt="game2" src="https://github.com/user-attachments/assets/d337ec7f-cf66-4464-95eb-ad4d8abbc617">
+
+<img width="1470" alt="Screenshot 2567-11-25 at 11 56 41 PM" src="https://github.com/user-attachments/assets/ddcae937-71d4-420d-aa7c-deb604e34e72">
 
 
 How to play Dino
