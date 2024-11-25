@@ -56,7 +56,7 @@ How to access Gamedino
 ###Api https://dinoapi.brunosouzadev.com/api/dinosaurs
 #Give knowledge about dinosaurs#
 
-<img width="1470" alt="Screenshot 2567-11-25 at 11 56 41 PM" src="https://github.com/user-attachments/assets/a2eb4e46-e9fd-4d56-b7fc-1efbff832e03">
+<img width="1470" alt="Screenshot 2567-11-25 at 11 58 29 PM" src="https://github.com/user-attachments/assets/5b85bed4-b369-4ee2-bfd5-7379d49a0925">
 
 
 
