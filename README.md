@@ -3,11 +3,6 @@
 ![hippo](https://github.com/user-attachments/assets/19e9defc-acca-4896-a056-156390f4d535)
 
 
-![pp](https://github.com/user-attachments/assets/539229c8-a827-4a63-87ef-1e04b4dce98a)
-
-
-
-
 
 # How to start with ct648_finalproject
 Using port .
